@@ -119,7 +119,7 @@ function App() {
               alt="User Profile"
             />
             <p className="col-lg-8 mx-auto lead mt-2">
-              Prakash Gandham, Founder of TempPad
+              Prakash Gandham, Creator of TempPad
             </p>
           </div>
         </div>
